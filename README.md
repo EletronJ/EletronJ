@@ -1,16 +1,17 @@
-## Hi there 👋
+# EletronJun 🔋 
+A EletronJun possui 11 anos de história dentro do Movimento Empresa Júnior, sendo a **primeira EJ** fundada dentro do Campus da UnB do Gama, atualmente FCTE.
 
-<!--
-**EletronJ/EletronJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formada por alunos dos cursos de Engenharia Eletrônica e de Software, nossa empresa busca, através da valorização de seus valores, excelência na execução de projetos.
 
-Here are some ideas to get you started:
+Desde nossa fundação, temos como objetivo qualificar nossos membros através do empreendedorismo para gerar valor na sociedade. 
+## Nosso MVV
+### Missão
+Desenvolver os membros através do empreendedorismo, criando soluções inovadoras, por meio da eletrônica e software, com o objetivo de gerar valor e impacto na sociedade.
+### Visão
+Aumentar o nosso alcance e agregar valor para todos estados do Brasil.
+### Valores
+Profissionalismo, senso de pertencimento e persistência.
+### Organização da Empresa
+[Repositórios de Projetos](https://github.com/Eletronjun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">Copyright <a href="https://eletronjun.com.br/">EletronJun©<a> (2025)</div>
